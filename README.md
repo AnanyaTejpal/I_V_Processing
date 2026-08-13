@@ -27,3 +27,17 @@
 **Example:**
 Weightages of R, G, and B are 0.7, 0.2, and 0.1, respectively.
 
+# ASSIGNMENT-3
+
+## Features
+
+### 1. Draw a Border Around the Input Image
+
+* **Case 1:** Input the width of the border in terms of pixel count and the desired border color. Apply the border to a grayscale image.
+* **Case 2:** Input the width of the border in terms of pixel count and the desired border color. Apply the border to a binary image.
+
+### 2. Image Complement
+
+* **Case 1:** Perform image complement on a grayscale image.
+* **Case 2:** Perform image complement on a binary image.
+
