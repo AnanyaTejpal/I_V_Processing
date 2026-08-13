@@ -14,12 +14,16 @@
 
 ## Features
 
-1. Write a program (WAP) to convert a grayscale image into a binary image.
-Case 1: Assume the mean intensity of the image as the threshold value.
-Case 2: Input the threshold value from the user.
+### 1. Convert a Grayscale Image into a Binary Image
 
-2. Write a program (WAP) to convert an RGB (color) image into a grayscale image.
-Case 1: Convert the RGB image to grayscale by taking the mean average of the three color planes (R, G, and B).
-Case 2: Input the weightages of the three color planes (R, G, and B) from the user. The weightage of each plane should be a value between 0 and 1, and the sum of all three weightages must be equal to 1.
-Example:
+* **Case 1:** Assume the mean intensity of the image as the threshold value.
+* **Case 2:** Input the threshold value from the user.
+
+### 2. Convert an RGB (Color) Image into a Grayscale Image
+
+* **Case 1:** Convert the RGB image to grayscale by taking the mean average of the three color planes (R, G, and B).
+* **Case 2:** Input the weightages of the three color planes (R, G, and B) from the user. The weightage of each plane should be a value between 0 and 1, and the sum of all three weightages must be equal to 1.
+
+**Example:**
 Weightages of R, G, and B are 0.7, 0.2, and 0.1, respectively.
+
